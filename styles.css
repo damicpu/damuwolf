@@ -1,0 +1,61 @@
+/* agregando bodi que es lo que se ve en la pagina lo vas modificando */
+body    {
+    background-color: powderblue;
+}
+/* aca le das forma al h1 de html. al titulo */
+h1 {
+    font-size: 100px;
+    color: red;
+    background-color: yellow;
+    text-align: center;
+}
+
+.colores {
+font-size: 50px;
+color: yellowgreen;
+background-color: slateblue;
+text-align: center;
+}
+
+.doctores {
+    font-size: 30px;
+    color: rgb(39, 139, 19);
+    background-color: rgb(71, 181, 255);
+    border: 2px;
+    border-radius: 5px;
+    text-align: center;
+    
+}
+.tomate{
+background-color: tomato;
+color: rgb(149, 18, 18);
+}
+.naranja {
+  background-color: orange;  
+color: white;
+}
+.azularcoiris {
+    background-color: dodgerblue;
+    color: white;
+}
+
+.verdealga {
+background-color: aqua;
+color: white; 
+}
+.gris {
+    background-color: grey;
+    color: white;
+}
+.azulmetalizado {
+    background-color: slateblue;
+    color: white;
+}
+.violeta {
+    background-color: violet;
+    color: white;
+}
+.dorado {
+    background-color: gold;
+    color: white;
+}
